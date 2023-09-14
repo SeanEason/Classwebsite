@@ -5,6 +5,12 @@ body{
     background-color: rgb(97, 151, 250);
 }
 
+div{
+    max-width: 1000px;
+    background-color: antiquewhite;
+}
+
+
 
 h2, h3, p, li{
     font-family: Arial, Helvetica, sans-serif;

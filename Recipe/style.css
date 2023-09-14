@@ -6,6 +6,7 @@ body{
 }
 img{
     float: right;
+    text-align: justify;
 }
 
 div{

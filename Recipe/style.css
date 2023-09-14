@@ -22,4 +22,5 @@ h2, h3, p, li{
 h1{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(255, 251, 9);
+    font-size: 2rem;
 }

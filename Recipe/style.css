@@ -4,6 +4,9 @@ h1 {
 body{
     background-color: rgb(96, 223, 255);
 }
+img{
+    float: right;
+}
 
 div{
     max-width: 1000px;

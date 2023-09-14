@@ -16,13 +16,13 @@ h2, h3, p, li, table{
     font-family: cursive;
     font-size: 1rem;
     font-weight: 1.6rem;
-    color: deeppink;
+    color: rgb(255, 255, 255);
 
 }
 
 h1{
     font-family:cursive;
-    color: deeppink;
+    color: rgb(255, 255, 255);
     font-size: 2rem;
     text-align: center;
     float: right;

@@ -13,7 +13,7 @@ img {
 
 
 h2, h3, p, li, table{
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 1rem;
     font-weight: 1.6rem;
     color: deeppink;

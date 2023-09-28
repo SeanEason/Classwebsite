@@ -5,9 +5,8 @@
     header{
         padding:2em;
         background-color: #000;
-        
-         }
-         body{
-            background-image: url("images/tanjiro.webp");
-         }
-    
+        background-image: url("images/tanjiro.webp");
+        background-size: contain;
+        background-position: top;
+    }
+         

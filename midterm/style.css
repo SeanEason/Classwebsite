@@ -13,10 +13,9 @@
         margin-top: 20px;
     }
 
-    #main nav ul {
+    #main nav ul li {
         list-style-type: none;
         display: inline-block;
-        margin: 0.8px;
+        margin: 0 8px;
         line-height: 50px;
-
-    }
+     }

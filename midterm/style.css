@@ -13,7 +13,7 @@
         margin-top: 20px;
     }
 
-    #main nav ul li {
+    #main nav ul {
         list-style-type: none;
         display: inline-block;
         margin: 0.8px;

@@ -3,9 +3,10 @@
     }
 
     header{
-        background-image: url("Muzan.jpg");
+        background-image: url("Muzan.jpg" width="726" height="193");
         background-size: contain;
         background-position: top;
+        
     }
     #main nav ul {
         float: left;

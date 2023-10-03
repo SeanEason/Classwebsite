@@ -1,20 +1,25 @@
+
+body{background-color: black;}
+h2{color: white;}
+
+    
     #wrapper {
-        max-width: 1400px;
+         max-width: 1400px; 
     }
 
     header{
-        background-image: url("Muzan.jpg");
-        background-size: contain;
+        background-image: url("Group 1.png");
+        background-size: cover;
         background-position: right;
         margin-right: 10px;
-        background-repeat: no-repeat;
+        background-repeat: url("Group 1.png") no-repeat;
         
         
     }
     .main nav ul {
         float: left;
-        margin-left: 20px;
-        margin-top: 20px;
+        margin-left: -20px;
+        margin-top: -60px;
     }
 
     .main nav ul li {
@@ -23,3 +28,10 @@
         margin: 0 8px;
         line-height: 50px;
      }
+
+     .banner {
+         margin-left: 400px;
+        margin-bottom: 100px; 
+        
+        
+    }

@@ -3,18 +3,21 @@
     }
 
     header{
-        background-image: url("Muzan.jpg" width="726" height="193");
+        background-image: url("Muzan.jpg");
         background-size: contain;
-        background-position: top;
+        background-position: right;
+        margin-right: 10px;
+        background-repeat: no-repeat;
+        
         
     }
-    #main nav ul {
+    .main nav ul {
         float: left;
         margin-left: 20px;
         margin-top: 20px;
     }
 
-    #main nav ul li {
+    .main nav ul li {
         list-style-type: none;
         display: inline-block;
         margin: 0 8px;

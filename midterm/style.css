@@ -19,7 +19,7 @@ h2{color: white;}
     #main nav ul {
         float: left;
         margin-left: -20px;
-        margin-top: -20px;
+        margin-top: -60px;
     }
 
     #main nav ul li {
@@ -32,7 +32,7 @@ h2{color: white;}
      #main  nav ul li a {
         text-decoration: none;
         color: #fff;
-        font-size: 14px;
+        font-size: 18px;
         padding: 6px 13px;
         transition: 0.4s all ease-in-out;
 }

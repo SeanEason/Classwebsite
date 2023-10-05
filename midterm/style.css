@@ -4,49 +4,49 @@ h2{color: white;}
 
     
     #wrapper {
-         max-width: 1400px; 
-    }
+         max-width: 1440px;
+          }
 
-    header{
-        background-image: url("Group 1.png");
-        background-size: cover;
-        background-position: right;
-        margin-right: 10px;
-        background-repeat: url("Group 1.png") no-repeat;
-        
-        
-    }
-    #main nav ul {
+    
+     nav ul {
         float: left;
-        margin-left: -20px;
-        margin-top: -60px;
-    }
+        margin-left: 1px; 
+        margin-top: 350px;
+     }
 
-    #main nav ul li {
+     nav ul li {
         list-style-type: none;
         display: inline-block;
         margin: 0 8px;
         line-height: 50px;
      }
      
-     #main  nav ul li a {
+      nav ul li a {
         text-decoration: none;
         color: #fff;
-        font-size: 18px;
+        font-size: 24px;
         padding: 6px 13px;
         transition: 0.4s all ease-in-out;
 }
 
-    #main nav ul li a.active,
-    #main nav ul li a:hover {
+     nav ul li a.active,
+     nav ul li a:hover {
         background: #fdad00fb;
         color: #fff;
         transition: 0.4s all ease-out;
     }
 
      .banner {
-         margin-left: 400px;
-        margin-bottom: 100px; 
+        
+        margin-bottom: 200px; 
         
         
+    }
+
+    #logo{
+    margin-bottom: 1100px;
+
+
+
+
     }

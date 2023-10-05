@@ -16,19 +16,41 @@ h2{color: white;}
         
         
     }
-    .main nav ul {
+    #main nav ul {
         float: left;
         margin-left: -20px;
-        margin-top: -60px;
+        margin-top: -20px;
     }
 
-    .main nav ul li {
+    #main nav ul li {
         list-style-type: none;
         display: inline-block;
         margin: 0 8px;
         line-height: 50px;
      }
+     
+     #main  nav ul li a {
+        text-decoration: none;
+        color: #fff;
+        font-size: 14px;
+        padding: 6px 13px;
+        transition: 0.4s all ease-in-out;
+}
 
+    #main nav ul li a.active,
+    #main nav ul li a:hover {
+        background: #fd4a47;
+        color: #fff;
+        transition: 0.4s all ease-out;
+    }
+     
+     
+     
+     
+     
+     
+     
+     
      .banner {
          margin-left: 400px;
         margin-bottom: 100px; 

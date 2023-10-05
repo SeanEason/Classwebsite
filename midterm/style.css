@@ -39,18 +39,11 @@ h2{color: white;}
 
     #main nav ul li a.active,
     #main nav ul li a:hover {
-        background: #fd4a47;
+        background: #fdad00fb;
         color: #fff;
         transition: 0.4s all ease-out;
     }
-     
-     
-     
-     
-     
-     
-     
-     
+
      .banner {
          margin-left: 400px;
         margin-bottom: 100px; 

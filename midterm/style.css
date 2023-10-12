@@ -3,9 +3,10 @@ body{background-color: black;}
 h2{color: white;}
 
     
-    #wrapper {
-         max-width: 1440px;
-          }
+     #wrapper { 
+          
+     }
+          
 
     
      nav ul {
@@ -37,14 +38,13 @@ h2{color: white;}
     }
 
      .banner {
-        
-        margin-bottom: 600px; 
+        width: 100%;
         
         
     }
 
     #logo{
-    margin-bottom: 1100px;
+    
 
 
 

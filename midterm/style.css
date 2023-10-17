@@ -10,7 +10,7 @@ h2{color: white;}
 
     
      nav ul {
-        float: left;
+        /* float: left; */
         margin-left: 1px; 
         margin-top: 10px;
      }
@@ -37,14 +37,15 @@ h2{color: white;}
         transition: 0.4s all ease-out;
     }
 
-      .banner { 
+      .banner img { 
          width: 100%; }
         
         
         
     
 
-    #logo{
+    #logo img{
+      margin-top: 10%;
     
 
 

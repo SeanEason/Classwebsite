@@ -32,16 +32,17 @@ h2{color: white;}
 
      nav ul li a.active,
      nav ul li a:hover {
-        background: #fdad00fb;
+        background: #faac03b7;
         color: #fff;
         transition: 0.4s all ease-out;
     }
 
-     .banner {
-        width: 100%;
+      .banner { 
+         width: 100%; }
         
         
-    }
+        
+    
 
     #logo{
     

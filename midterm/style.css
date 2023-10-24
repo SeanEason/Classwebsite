@@ -41,9 +41,11 @@ h2{color: white;}
          width: 100%; }
       .banner h1 { 
          color: #fff;
+         margin-top: 0px;
          font-size: 32px;
          font-family: Georgia, 'Times New Roman', Times, serif;
-         margin-left: 38%
+         margin-left: 685px
+         
          
 
          }
@@ -52,11 +54,13 @@ h2{color: white;}
         
         
          #text{
-            margin-left: 28%;
+            margin-left: 40px;
             color: #fff;
             font-size: 26px;
-            font-family: bold;
-            max-width: 800px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1400px;
+            margin-top: 1.5em;
+            font-weight: lighter;
             
             }
         
@@ -84,6 +88,12 @@ h2{color: white;}
     
      
     
+}
+ .btn a.active,
+.btn a:hover {
+   background: #faac03b7;
+   color: #fff;
+   transition: 0.4s all ease-out;
 }
 
     

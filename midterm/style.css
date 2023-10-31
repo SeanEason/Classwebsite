@@ -116,8 +116,11 @@ h2{color: white;}
    font-size: larger;
  }
 
- .flex-item card1{
-   margin-left: 5px;
-
+ .flex-container {
+   display: flex;
+   
+}
+ .flex-container p{
+   color: #fff;
  }
     

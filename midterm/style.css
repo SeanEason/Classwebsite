@@ -96,4 +96,23 @@ h2{color: white;}
    transition: 0.4s all ease-out;
 }
 
+.flex-item{
+   width:200px;
+   border:solid 1px gray;
+   padding:5px;
+   border-radius: 10px;
+   margin:0.5em;
+ }
+
+ .lead{
+   border:none;
+ }
+
+ .img-responsive{
+   width:100%;
+ }
+
+ .lead p{
+   font-size: larger;
+ }
     

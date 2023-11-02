@@ -134,5 +134,11 @@ h2{color: white;}
    
  }
 
+ input:focus{ background-color: #f5a907 ; border: 4px; border: solid;
+ }
+
+ .home img{
+  width:100%
+ }
  
  

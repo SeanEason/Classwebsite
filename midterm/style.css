@@ -96,14 +96,6 @@ h2{color: white;}
    transition: 0.4s all ease-out;
 }
 
-.flex-item{
-   width:200px;
-   border:solid 1px gray;
-   padding:5px;
-   border-radius: 10px;
-   margin:0.5em;
- }
-
  .lead{
    border:none;
  }
@@ -117,10 +109,30 @@ h2{color: white;}
  }
 
  .flex-container {
-   display: flex;
+   display:flex;
+   flex-wrap: wrap;
    
 }
  .flex-container p{
    color: #fff;
  }
-    
+
+ 
+
+.flex-item{
+   width:250px;
+   border:solid 1px gray;
+   padding:5px;
+   border-radius: 10px;
+   margin:1em;
+ }
+
+ .lead{
+   border:none;
+   flex-grow: 2 0 auto;
+   flex: auto;
+   
+ }
+
+ 
+ 

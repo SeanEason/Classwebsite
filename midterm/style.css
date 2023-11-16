@@ -12,7 +12,7 @@ h2{color: white;}
      nav ul {
        
         margin-left: 1px; 
-        margin-top: 10px;
+        
      }
 
      nav ul li {
@@ -43,10 +43,10 @@ h2{color: white;}
       }
       .banner img { 
          width: 100%;
-         background-color: (to left, rgba(0,0,0,0), rgb(255, 255, 255)); }
+      }
       .banner h1 { 
          color: #fff;
-         margin-top: 0px;
+        
          font-size: 32px;
          font-family: Georgia, 'Times New Roman', Times, serif;
          margin-left: 650px

@@ -29,5 +29,19 @@ nav a:hover{
 }
 
 .drop-menu a:hover{
-    background-color: cadetblue;
+    background-color: purple;
+}
+
+.drop-menu{
+    display: none;
+    /* position: absolute; */
+}
+
+nav li:hover .drop-menu{
+    display: block;
+
+}
+
+p{
+    margin: 10px;
 }

@@ -20,12 +20,6 @@
     text-decoration: none;
   }
   
-  h1 a{
-  
-  }
-  h1 a:hover{
-  
-  }
   
   p, h1, h2, h3, nav, article{
     margin-bottom: 1em;
@@ -143,6 +137,10 @@
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     color: white;
+  }
+
+  .banner img{
+    max-width: 100%;
   }
   
   /* main styles */

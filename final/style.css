@@ -71,18 +71,16 @@
    
   
   }
-  #dropmenu a:hover{
-  }
+  
   #dropmenu input{
-    border: solid 1px gray;
+    border: solid 1px blue;
     padding: 5px;
   }
   
-  .topnav{
+.topnav{
     /* text-align: right; */
   }
   
-  /* search program navigation */
   
   .search-program{
     background-color: #d1d9dd;
@@ -102,9 +100,7 @@
     display: block;
   }
   
-  .search-program a:hover{
   
-  }
   .search-program li{
   text-align: center;
   list-style-type: none;
@@ -155,6 +151,12 @@
     list-style-type: none;
   }
   /* digitaldesign page */
+
+  nav a:hover{
+    color: blue;
+    transition: all ease-out 0.3s;
+  }
+
   
   .card-link{
     display: block;
@@ -173,11 +175,12 @@
   .program-card img{
     width: 100%;
     border-radius: 10px;
+    height: 100%;
   }
   
   .card-body h4{
     margin: 0.5em 0;
-    color: #a149fb;
+    color: black;
     text-decoration: none;
   }
   
@@ -185,16 +188,11 @@
      margin-bottom: 0;
    }
   .card-link{
-    color: #000;
+    color: black;
     text-decoration: none;
     transform: transform 0.5s;
   }
   
-  .card-link:hover{
-    transform: scale(1.05);
-    transform: skew(0.5deg);
-    box-shadow: 5px 5px 10px #888;
-  }
   
   @media (min-width:796px){
   

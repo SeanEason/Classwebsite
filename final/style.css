@@ -33,8 +33,6 @@
     text-decoration: none;
     background-color: lightgray;
   }
-  .button:hover{
-  }
   /* header navigation */
   header{
     display: flex;
@@ -113,12 +111,9 @@
   }
   .search-program img{
     width:24px;
-    margin-bottom: -6px;
+    margin-bottom: 6px;
     transition-property: transform;
     transition-duration: 0.2s;
-  }
-  .search-program li:hover img{
-  transform: rotate(180deg);
   }
   
   /* banner styles */
